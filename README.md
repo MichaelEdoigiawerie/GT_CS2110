@@ -8,7 +8,7 @@ An introduction to basic computer hardware, Machine Language, Assembly Language,
 - Understanding the structure and function of a symbolic Assembly Language.
 - Understanding basic concepts of computer systems such as the runtime stack, simple I/O devices, etc.
 - Learning the C Language with a particular emphasis on the underlying Assembly and Machine Language as well as interaction with hardware.
-## **Installation Requirements (Specifically For HW02 - HW03 and TL01)**
+## **Installation Requirements (Specifically For HW02, HW03, and TL01)**
 - Download and install [CircuitSim](https://ra4king.github.io/CircuitSim/)
 ## **Coursework**
 - **Homework 1:** Bases and Bitwise Operations
